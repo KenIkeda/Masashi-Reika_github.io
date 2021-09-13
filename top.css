@@ -48,7 +48,7 @@ body {
   background-size: cover;
   transition: opacity 1s;
   -webkit-transition: opacity 1s;
-  background-image: url('https://github.com/Wedding1106/Masashi-Reika_github.io/masashi_reika.png');
+  background-image: url('masashi_reika.png');
   background-position: bottom left;
   opacity:0;
 }
